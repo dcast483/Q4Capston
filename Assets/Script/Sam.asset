@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2435ab657f21914bbd6f80e18e6fca2, type: 3}
+  m_Name: Sam
+  m_EditorClassIdentifier: 
+  hp: 1
+  CharmHp: 10000
+  EnemyVisual: {fileID: 0}
+  EnemiesAttacks:
+  - {fileID: 3785910384208503400, guid: e6b87206f9ef6f9468dee874ddbbea52, type: 3}
+  - {fileID: 9188523584952017289, guid: 9946c242600b4fd4fb395eecbee497ff, type: 3}
